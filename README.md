@@ -8,4 +8,4 @@ I wanted to visualize the relationship between shelter occupancy and daily repor
 
 The first chart shows the daily proportion of total shelter capacity in the city that was filled for the years 2018 through 2020. I used the proportion of capacity filled as opposed to the raw occupancy numbers to account for shelters reducing their capacity in 2020 to comply with the province's COVID-19 restrictions. As you can see, shelter occupancy was relatively stable in 2018 and 2019 with shelters consistently being about 95% full. In April 2020 occupancy begins to plunge.
 
-The second chart plots the number of daily reported COVID-19 cases in Toronto. I computed the Spearmann correlation between the two variables for 2020, which shows a moderate negative correlation.
+The second chart plots the number of daily reported COVID-19 cases in Toronto. I computed the Spearman correlation between the two variables for 2020, which shows a moderate negative correlation.
